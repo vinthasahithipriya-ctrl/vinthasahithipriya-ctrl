@@ -9,10 +9,11 @@ Software Engineer with 1 year of hands-on backend development experience. I work
 - **Backend:** Spring Boot, REST APIs, MySQL, PostgreSQL, Redis, Kafka
 
 ## 🚀 Projects
-- Traffic Road Object Detection (Python, YOLOv8, OpenCV)
-- Cloud Application Deployment and Monitoring (AWS, Docker, Linux)
-- Task and User Management Microservice (Spring Boot, Docker)
-- Scalable Order and Payment REST API (Spring Boot, Redis, Kafka)
+- [Python CI/CD Demo](https://github.com/vinthasahithipriya-ctrl/python-ci-cd-demo): Flask API with a GitHub Actions pipeline that runs pytest and builds a Docker image on every push (Python, Docker, GitHub Actions)
+- **Cloud Application Deployment and Monitoring:** Deployed a containerized application on AWS EC2 and monitored it with CloudWatch (AWS, Linux, Docker)
+- **Traffic Road Object Detection:** Object-detection pipeline for road scenes with a Streamlit interface (Python, YOLOv8, OpenCV)
+- **Task and User Management Microservice:** CRUD REST APIs with layered architecture, containerized with Docker (Java, Spring Boot, MySQL)
+- **Scalable Order and Payment REST API:** REST API with Redis caching and Kafka-based asynchronous processing (Java, Spring Boot, MySQL)
 
 ## 🎓 Education and Certification
 - B.Tech in Computer Science and Engineering, 2024 (CGPA 9.28/10)
