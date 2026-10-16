@@ -15,11 +15,10 @@ Software Engineer with 1 year of hands-on backend development experience. I work
 - **Task and User Management Microservice:** CRUD REST APIs with layered architecture, containerized with Docker (Java, Spring Boot, MySQL)
 - **Scalable Order and Payment REST API:** REST API with Redis caching and Kafka-based asynchronous processing (Java, Spring Boot, MySQL)
 
-## 🎓 Education and Certification
+## 🎓 Education 
 - B.Tech in Computer Science and Engineering, 2024 (CGPA 9.28/10)
-- Microsoft Certified: Azure Fundamentals
 
 ## 📫 Contact
 - Email: vinthasahithipriya@gmail.com
-- LinkedIn: add your link here
+
 
